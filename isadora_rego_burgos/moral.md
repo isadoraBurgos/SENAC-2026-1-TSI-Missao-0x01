@@ -1,0 +1,3 @@
+# Moral da crônica "O Computador" — Luis Fernando Verissimo
+
+A moral da crônica é que a dependência total da tecnologia, sem um entendimento próprio dos fundamentos, nos torna incapazes de questionar ou verificar a veracidade daquilo que ela nos entrega. Ao abrir mão do saber matemático básico, as pessoas perderiam a capacidade de checar as respostas do Supercomputador, de modo que uma resposta errada se tornaria "certa" simplesmente por ser a única disponível. A crônica é, assim, um alerta sobre como a conveniência tecnológica pode nos deixar reféns de sistemas que não sabemos mais avaliar criticamente — perder o conhecimento básico é perder também a autonomia de pensar por conta própria.
